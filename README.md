@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <p align="center">My tools 🛠️</p>
 <p align="center"><a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="50px" height="50px"/></a> <a href="https://flask.palletsprojects.com/en/2.3.x/" title="Flask"><img src="icons/flask.png" width="50px" height="50px"/></a> <a href="https://www.javascript.com/" title="JavaScript"><img src="icons/javascript.png" width="50px" height="50px"/></a> <a href="https://react.dev/" title="React"><img src="icons/react.png" width="50px" height="50px"/></a> <a href="https://www.sqlite.org/" title="SQLite"><img src="icons/sqlite.png" width="50px" height="50px"/></a> <a href="https://www.tableau.com/" title="Tableau"><img src="icons/tableau.png" width="50px" height="50px"/></a> <a href="https://www.adobe.com/creativecloud.html" title="Adobe"><img src="icons/adobe_cc.png" width="50px" height="50px"/></a></p>
 
-<p align="center">Check my playlists out 🎵</p>
+<p align="center">My playlists 🎵</p>
 <p align="center"><a href="https://open.spotify.com/user/kl4xfi4lpihuljak3tg329sjz?si=4c17e4e2fde4470e"  title="Spotify"><img src="icons/spotify.png" width="50px" height="50px"/></a></p>
