@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="pic.jpg"/>
+<img src="pic.jpg" height="640px" weight="640px"/>
 <p></p>  
 
 <p align="center">My tools</p>
